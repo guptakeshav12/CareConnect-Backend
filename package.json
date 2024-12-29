@@ -1,0 +1,17 @@
+{
+  "name": "careconnect-backend",
+  "version": "1.0.0",
+  "description": "create a CareConnect Backend ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "CareConnect"
+  ],
+  "license": "ISC",
+  "author": "Keshav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
